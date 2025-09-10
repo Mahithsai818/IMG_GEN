@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@import "tailwindcss";
+
+*{
+  font-family: Outfit;
+}
+.font-anta { font-family: 'Anta', sans-serif; }
+.font-inter { font-family: 'Inter', sans-serif; }
+.font-raleway { font-family: 'Raleway', sans-serif; }
+
+.placeholder-color {
+  color: #dbdbdb;
+  font-weight: 300;
+}
